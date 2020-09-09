@@ -159,6 +159,6 @@ MEDIA_URL = '/media/'  # endereço para acessar os arquivos
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'SMTP.office365.com'
 EMAIL_HOST_USER = 'abnergmb@live.com'
-EMAIL_HOST_PASSWORD = '4m0mu1t0m1nh4f4'
+EMAIL_HOST_PASSWORD = 'senhaDoEmail'
 EMAIL_PORT = '587'
 EMAIL_USE_TLS = True
