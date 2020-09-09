@@ -1,0 +1,14 @@
+gunicorn~=20.0.4
+django~=3.1.1
+django-widget-tweaks
+psycopg2
+whitenoise
+django-heroku
+dj-database-url
+django-bootstrap-form
+include
+path
+pip
+sqlparse
+django-filter~=2.3.0
+pillow

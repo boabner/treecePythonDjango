@@ -1,0 +1,62 @@
+body {
+    background-color: #F5F5F5 !important;
+}
+
+.navbar {
+    background-color: #3CB371 !important;
+}
+
+.navbar a{
+    font-weight: bold !important;
+    color: white !important;
+}
+
+.card {
+    background-color: transparent !important;
+    border:none;
+}
+
+.input-group-text {
+    color: #2E8B57 !important;
+    background-color: transparent !important;
+    border-top: 0px !important;
+    border-left: 0px !important;
+}
+
+.input-group input {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-radius: 0px;
+    background-color: #FAFAFA !important;
+}
+
+.boxLogin {
+    margin-top: 50px;
+    max-width: 450px !important;
+}
+
+.boxLogin h5 {
+    color: #888 !important;
+    font-size: 18px;
+}
+
+.text-danger {
+    font-size: 20px !important;
+}
+
+.btn {
+    border-radius: 0;
+}
+
+.btn-light {
+    color: white !important;
+    border: 1px solid #C1FFC1 !important;
+    background-color: #777 !important;
+}
+
+.boxLight {
+    min-width: 98% !important;
+    border: 1px solid #C1C1C1 !important;
+    background-color: #FFF !important;
+}
